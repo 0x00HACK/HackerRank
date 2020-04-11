@@ -1,2 +1,2 @@
 # HackerRank
-Shell Scripting
+Linux Scripting
