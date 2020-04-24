@@ -1,3 +1,4 @@
 # HackerRank
 C,
-Linux Scripting
+Linux Scripting,
+Sql
