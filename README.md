@@ -1,4 +1,5 @@
 # HackerRank
-C,
-Linux Scripting,
+30 Days of Code, 
+C, 
+Linux Scripting, 
 Sql
