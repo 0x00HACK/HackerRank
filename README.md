@@ -1,6 +1,7 @@
 # HackerRank
 10 Days of Javascript,
 30 Days of Code, 
-C, 
+C,
+JAVA,
 Linux Scripting, 
 Sql
