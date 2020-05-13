@@ -18,6 +18,11 @@ int main()
             if(count1>=count2)  count2=count1;
         }
         else    count1=0;
+        /*
+        if(remainder==1)    ++count1;
+        else    count1=0;
+        if(count1>=count2)  count2=count1;
+        */
     }
     cout<<count2;
     return 0;
