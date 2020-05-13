@@ -27,7 +27,7 @@ public class Solution {
             /*
             if(remainder==1)    ++count1;
             else    count1=0;
-            if(count1>=count2)  count2=count1;
+            if(count1>=count2)  count2=count1;  //count2 = Math.max(count1, count2);
             */
         }
         System.out.print(count2);
